@@ -1,0 +1,10 @@
+.navBar_div{
+    width: calc(100vw);
+    height: 70px;
+    padding: 10px;
+    background: black;
+    position: sticky;
+}
+.navBar_div h1{
+    color: whitesmoke;
+}
